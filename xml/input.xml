@@ -1,0 +1,700 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pdf>
+    <tables>
+        <table id="1">
+            <rows_amount>69</rows_amount>
+            <columns_amount>6</columns_amount>
+            <rows>
+                <row id="1">
+                        <cell id ="1">Rekening</cell>
+                        <cell id="2">Omschrijving</cell>
+                        <cell id="3">Debet</cell>
+                        <cell id="4">Credit</cell>
+                        <cell id="5">Debet</cell>
+                        <cell id="6">Credit</cell>
+                </row>
+                <row id="2">
+                    <cells>
+                        <cell id="1">0010</cell>
+                        <cell id="2">Inventaris</cell>
+                        <cell id="3">2.937,00</cell>
+                        <cell id="4"/>
+                        <cell id="5"/>
+                        <cell id="6"/>
+                    </cells>
+                </row>
+                <row id="3">
+                    <cells>
+                        <cell id="1">0018</cell>
+                        <cell id="2">Cumulatieve afschrijving inventaris</cell>
+                        <cell id="3"/>
+                        <cell id="4">2.937,00</cell>
+                        <cell id="5"/>
+                        <cell id="6"/>
+                    </cells>
+                </row>
+                <row id="4">
+                    <cells>
+                        <cell id="1">0020</cell>
+                        <cell id="2">Transportmiddelen</cell>
+                        <cell id="3">24.178,00</cell>
+                        <cell id="4"/>
+                        <cell id="5"/>
+                        <cell id="6"/>
+                    </cells>
+                </row>
+                <row id="5">
+                    <cells>
+                        <cell id="1">0025</cell>
+                        <cell id="2">Desinvesteringen transportmiddelen</cell>
+                        <cell id="3"/>
+                        <cell id="4">11.193,00</cell>
+                        <cell id="5"/>
+                        <cell id="6"/>
+                    </cells>
+                </row>
+                <row id="6">
+                    <cells>
+                        <cell id="1">0027</cell>
+                        <cell id="2">Cumulatieve afschr. desinvestering</cell>
+                        <cell id="3">9.708,00</cell>
+                        <cell id="4"/>
+                        <cell id="5"/>
+                        <cell id="6"/>
+                    </cells>
+                </row>
+                <row id="7">
+                    <cells>
+                        <cell id="1">0028</cell>
+                        <cell id="2">Cumulatieve afschrijvingen trasnportmidd</cell>
+                        <cell id="3"/>
+                        <cell id="4">12.305,00</cell>
+                        <cell id="5"/>
+                        <cell id="6"/>
+                    </cells>
+                </row>
+                <row id="8">
+                    <cells>
+                        <cell id="1"/>
+                        <cell id="2">Subtotaal 00:</cell>
+                        <cell id="3">10.388,00</cell>
+                        <cell id="4"/>
+                        <cell id="5"/>
+                        <cell id="6"/>
+                    </cells>
+                </row>
+                <row id="9">
+                    <cells>
+                        <cell id="1">0900</cell>
+                        <cell id="2">Kapitaal</cell>
+                        <cell id="3"/>
+                        <cell id="4">48.050,54</cell>
+                        <cell id="5"/>
+                        <cell id="6"/>
+                    </cells>
+                </row>
+                <row id="10">
+                    <cells>
+                        <cell id="1">0903</cell>
+                        <cell id="2">Premie aov-verzekering</cell>
+                        <cell id="3">7.343,40</cell>
+                        <cell id="4"/>
+                        <cell id="5"/>
+                        <cell id="6"/>
+                    </cells>
+                </row>
+                <row id="11">
+                    <cells>
+                        <cell id="1">0906</cell>
+                        <cell id="2">Prive opname</cell>
+                        <cell id="3">33.703,02</cell>
+                        <cell id="4"/>
+                        <cell id="5"/>
+                        <cell id="6"/>
+                    </cells>
+                </row>
+                <row id="12">
+                    <cells>
+                        <cell id="1">0910</cell>
+                        <cell id="2">Inkomstenbelasting</cell>
+                        <cell id="3">3.521,00</cell>
+                        <cell id="4"/>
+                        <cell id="5"/>
+                        <cell id="6"/>
+                    </cells>
+                </row>
+                <row id="13">
+                    <cells>
+                        <cell id="1">0915</cell>
+                        <cell id="2">Prive storting</cell>
+                        <cell id="3"/>
+                        <cell id="4">1.017,94</cell>
+                        <cell id="5"/>
+                        <cell id="6"/>
+                    </cells>
+                </row>
+                <row id="14">
+                    <cells>
+                        <cell id="1"/>
+                        <cell id="2">Subtotaal 09:</cell>
+                        <cell id="3"/>
+                        <cell id="4">4.501,06</cell>
+                        <cell id="5"/>
+                        <cell id="6"/>
+                    </cells>
+                </row>
+                <row id="15">
+                    <cells>
+                        <cell id="1">1060</cell>
+                        <cell id="2">Rabobank</cell>
+                        <cell id="3">3.291,95</cell>
+                        <cell id="4"/>
+                        <cell id="5"/>
+                        <cell id="6"/>
+                    </cells>
+                </row>
+                <row id="16">
+                    <cells>
+                        <cell id="1">1080</cell>
+                        <cell id="2">Rabobank spaarrekening</cell>
+                        <cell id="3">20.000,00</cell>
+                        <cell id="4"/>
+                        <cell id="5"/>
+                        <cell id="6"/>
+                    </cells>
+                </row>
+                <row id="17">
+                    <cells>
+                        <cell id="1"/>
+                        <cell id="2">Subtotaal 10:</cell>
+                        <cell id="3">23.291,95</cell>
+                        <cell id="4"/>
+                        <cell id="5"/>
+                        <cell id="6"/>
+                    </cells>
+                </row>
+                <row id="18">
+                    <cells>
+                        <cell id="1">1300</cell>
+                        <cell id="2">Debiteuren</cell>
+                        <cell id="3">1.415,96</cell>
+                        <cell id="4"/>
+                        <cell id="5"/>
+                        <cell id="6"/>
+                    </cells>
+                </row>
+                <row id="19">
+                    <cells>
+                        <cell id="1"/>
+                        <cell id="2">Subtotaal 13:</cell>
+                        <cell id="3">1.415,96</cell>
+                        <cell id="4"/>
+                        <cell id="5"/>
+                        <cell id="6"/>
+                    </cells>
+                </row>
+                <row id="20">
+                    <cells>
+                        <cell id="1">1600</cell>
+                        <cell id="2">Crediteuren</cell>
+                        <cell id="3"/>
+                        <cell id="4">2.597,09</cell>
+                        <cell id="5"/>
+                        <cell id="6"/>
+                    </cells>
+                </row>
+                <row id="21">
+                    <cells>
+                        <cell id="1"/>
+                        <cell id="2">Subtotaal 16:</cell>
+                        <cell id="3"/>
+                        <cell id="4">2.597,09</cell>
+                        <cell id="5"/>
+                        <cell id="6"/>
+                    </cells>
+                </row>
+                <row id="22">
+                    <cells>
+                        <cell id="1">1700</cell>
+                        <cell id="2">Voorheffing BTW</cell>
+                        <cell id="3">8.007,54</cell>
+                        <cell id="4"/>
+                        <cell id="5"/>
+                        <cell id="6"/>
+                    </cells>
+                </row>
+                <row id="23">
+                    <cells>
+                        <cell id="1">1711</cell>
+                        <cell id="2">Af te dragen BTW laag</cell>
+                        <cell id="3"/>
+                        <cell id="4">567,90</cell>
+                        <cell id="5"/>
+                        <cell id="6"/>
+                    </cells>
+                </row>
+                <row id="24">
+                    <cells>
+                        <cell id="1">1712</cell>
+                        <cell id="2">Af te dragen BTW hoog</cell>
+                        <cell id="3"/>
+                        <cell id="4">5.413,18</cell>
+                        <cell id="5"/>
+                        <cell id="6"/>
+                    </cells>
+                </row>
+                <row id="25">
+                    <cells>
+                        <cell id="1">1725</cell>
+                        <cell id="2">BTW verlegd hoog te betalen</cell>
+                        <cell id="3"/>
+                        <cell id="4">50,16</cell>
+                        <cell id="5"/>
+                        <cell id="6"/>
+                    </cells>
+                </row>
+                <row id="26">
+                    <cells>
+                        <cell id="1">1726</cell>
+                        <cell id="2">BTW verlegd hoog te vorderen</cell>
+                        <cell id="3">50,16</cell>
+                        <cell id="4"/>
+                        <cell id="5"/>
+                        <cell id="6"/>
+                    </cells>
+                </row>
+                <row id="27">
+                    <cells>
+                        <cell id="1">1750</cell>
+                        <cell id="2">Afdracht BTW boekjaar</cell>
+                        <cell id="3"/>
+                        <cell id="4">4.485,00</cell>
+                        <cell id="5"/>
+                        <cell id="6"/>
+                    </cells>
+                </row>
+                <row id="28">
+                    <cells>
+                        <cell id="1">1751</cell>
+                        <cell id="2">Saldo BTW vorig boekjaar</cell>
+                        <cell id="3">4.378,77</cell>
+                        <cell id="4"/>
+                        <cell id="5"/>
+                        <cell id="6"/>
+                    </cells>
+                </row>
+                <row id="29">
+                    <cells>
+                        <cell id="1"/>
+                        <cell id="2">Subtotaal 17:</cell>
+                        <cell id="3">1.920,23</cell>
+                        <cell id="4"/>
+                        <cell id="5"/>
+                        <cell id="6"/>
+                    </cells>
+                </row>
+                <row id="30">
+                    <cells>
+                        <cell id="1">2900</cell>
+                        <cell id="2">Vraagposten</cell>
+                        <cell id="3">0,52</cell>
+                        <cell id="4"/>
+                        <cell id="5"/>
+                        <cell id="6"/>
+                    </cells>
+                </row>
+                <row id="31">
+                    <cells>
+                        <cell id="1"/>
+                        <cell id="2">Subtotaal 29:</cell>
+                        <cell id="3">0,52</cell>
+                        <cell id="4"/>
+                        <cell id="5"/>
+                        <cell id="6"/>
+                    </cells>
+                </row>
+                <row id="32">
+                    <cells>
+                        <cell id="1">4170</cell>
+                        <cell id="2">Bedrijfs-/ werkkleding</cell>
+                        <cell id="3"/>
+                        <cell id="4"/>
+                        <cell id="5">1.324,71</cell>
+                        <cell id="6"/>
+                    </cells>
+                </row>
+                <row id="33">
+                    <cells>
+                        <cell id="1"/>
+                        <cell id="2">Subtotaal 41:</cell>
+                        <cell id="3"/>
+                        <cell id="4"/>
+                        <cell id="5">1.324,71</cell>
+                        <cell id="6"/>
+                    </cells>
+                </row>
+                <row id="34">
+                    <cells>
+                        <cell id="1">4260</cell>
+                        <cell id="2">Schoonmaakkosten</cell>
+                        <cell id="3"/>
+                        <cell id="4"/>
+                        <cell id="5">222,00</cell>
+                        <cell id="6"/>
+                    </cells>
+                </row>
+                <row id="35">
+                    <cells>
+                        <cell id="1"/>
+                        <cell id="2">Subtotaal 42:</cell>
+                        <cell id="3"/>
+                        <cell id="4"/>
+                        <cell id="5">222,00</cell>
+                        <cell id="6"/>
+                    </cells>
+                </row>
+                <row id="36">
+                    <cells>
+                        <cell id="1">4310</cell>
+                        <cell id="2">Accountantskosten</cell>
+                        <cell id="3"/>
+                        <cell id="4"/>
+                        <cell id="5">1.200,00</cell>
+                        <cell id="6"/>
+                    </cells>
+                </row>
+                <row id="37">
+                    <cells>
+                        <cell id="1"/>
+                        <cell id="2">Subtotaal 43:</cell>
+                        <cell id="3"/>
+                        <cell id="4"/>
+                        <cell id="5">1.200,00</cell>
+                        <cell id="6"/>
+                    </cells>
+                </row>
+                <row id="38">
+                    <cells>
+                        <cell id="1">4400</cell>
+                        <cell id="2">Kantoorbenodigdheden</cell>
+                        <cell id="3"/>
+                        <cell id="4"/>
+                        <cell id="5">1.913,94</cell>
+                        <cell id="6"/>
+                    </cells>
+                </row>
+                <row id="39">
+                    <cells>
+                        <cell id="1">4410</cell>
+                        <cell id="2">Telefoonkosten</cell>
+                        <cell id="3"/>
+                        <cell id="4"/>
+                        <cell id="5">799,49</cell>
+                        <cell id="6"/>
+                    </cells>
+                </row>
+                <row id="40">
+                    <cells>
+                        <cell id="1">4420</cell>
+                        <cell id="2">Porti</cell>
+                        <cell id="3"/>
+                        <cell id="4"/>
+                        <cell id="5">75,95</cell>
+                        <cell id="6"/>
+                    </cells>
+                </row>
+                <row id="41">
+                    <cells>
+                        <cell id="1">4440</cell>
+                        <cell id="2">Drukwerk</cell>
+                        <cell id="3"/>
+                        <cell id="4"/>
+                        <cell id="5">300,00</cell>
+                        <cell id="6"/>
+                    </cells>
+                </row>
+                <row id="42">
+                    <cells>
+                        <cell id="1">4450</cell>
+                        <cell id="2">Kleine aanschaffingen inventaris</cell>
+                        <cell id="3"/>
+                        <cell id="4"/>
+                        <cell id="5">387,90</cell>
+                        <cell id="6"/>
+                    </cells>
+                </row>
+                <row id="43">
+                    <cells>
+                        <cell id="1">4470</cell>
+                        <cell id="2">Contributies, abonnementen</cell>
+                        <cell id="3"/>
+                        <cell id="4"/>
+                        <cell id="5">15,00</cell>
+                        <cell id="6"/>
+                    </cells>
+                </row>
+                <row id="44">
+                    <cells>
+                        <cell id="1"/>
+                        <cell id="2">Subtotaal 44:</cell>
+                        <cell id="3"/>
+                        <cell id="4"/>
+                        <cell id="5">3.492,28</cell>
+                        <cell id="6"/>
+                    </cells>
+                </row>
+                <row id="45">
+                    <cells>
+                        <cell id="1">4530</cell>
+                        <cell id="2">Brandstofkosten auto's</cell>
+                        <cell id="3"/>
+                        <cell id="4"/>
+                        <cell id="5">1.727,91</cell>
+                        <cell id="6"/>
+                    </cells>
+                </row>
+                <row id="46">
+                    <cells>
+                        <cell id="1">4550</cell>
+                        <cell id="2">Onderhoudskosten auto's</cell>
+                        <cell id="3"/>
+                        <cell id="4"/>
+                        <cell id="5">317,20</cell>
+                        <cell id="6"/>
+                    </cells>
+                </row>
+                <row id="47">
+                    <cells>
+                        <cell id="1">4570</cell>
+                        <cell id="2">Motorruituigenbelasting auto's</cell>
+                        <cell id="3"/>
+                        <cell id="4"/>
+                        <cell id="5">334,00</cell>
+                        <cell id="6"/>
+                    </cells>
+                </row>
+                <row id="48">
+                    <cells>
+                        <cell id="1"/>
+                        <cell id="2">Subtotaal 45:</cell>
+                        <cell id="3"/>
+                        <cell id="4"/>
+                        <cell id="5">2.379,11</cell>
+                        <cell id="6"/>
+                    </cells>
+                </row>
+                <row id="49">
+                    <cells>
+                        <cell id="1">4600</cell>
+                        <cell id="2">Lunch- en dinerkosten</cell>
+                        <cell id="3"/>
+                        <cell id="4"/>
+                        <cell id="5">346,00</cell>
+                        <cell id="6"/>
+                    </cells>
+                </row>
+                <row id="50">
+                    <cells>
+                        <cell id="1">4620</cell>
+                        <cell id="2">Relatiegeschenken</cell>
+                        <cell id="3"/>
+                        <cell id="4"/>
+                        <cell id="5">295,88</cell>
+                        <cell id="6"/>
+                    </cells>
+                </row>
+                <row id="51">
+                    <cells>
+                        <cell id="1">4660</cell>
+                        <cell id="2">Reclame- en advertentiekosten</cell>
+                        <cell id="3"/>
+                        <cell id="4"/>
+                        <cell id="5">250,00</cell>
+                        <cell id="6"/>
+                    </cells>
+                </row>
+                <row id="52">
+                    <cells>
+                        <cell id="1"/>
+                        <cell id="2">Subtotaal 46:</cell>
+                        <cell id="3"/>
+                        <cell id="4"/>
+                        <cell id="5">891,88</cell>
+                        <cell id="6"/>
+                    </cells>
+                </row>
+                <row id="53">
+                    <cells>
+                        <cell id="1">4706</cell>
+                        <cell id="2">Bedrijfsverzekeringen</cell>
+                        <cell id="3"/>
+                        <cell id="4"/>
+                        <cell id="5">1.824,71</cell>
+                        <cell id="6"/>
+                    </cells>
+                </row>
+                <row id="54">
+                    <cells>
+                        <cell id="1"/>
+                        <cell id="2">Subtotaal 47:</cell>
+                        <cell id="3"/>
+                        <cell id="4"/>
+                        <cell id="5">1.824,71</cell>
+                        <cell id="6"/>
+                    </cells>
+                </row>
+                <row id="55">
+                    <cells>
+                        <cell id="1">4920</cell>
+                        <cell id="2">Afschrijvingskosten transportmiddelen</cell>
+                        <cell id="3"/>
+                        <cell id="4"/>
+                        <cell id="5">2.597,00</cell>
+                        <cell id="6"/>
+                    </cells>
+                </row>
+                <row id="56">
+                    <cells>
+                        <cell id="1"/>
+                        <cell id="2">Subtotaal 49:</cell>
+                        <cell id="3"/>
+                        <cell id="4"/>
+                        <cell id="5">2.597,00</cell>
+                        <cell id="6"/>
+                    </cells>
+                </row>
+                <row id="57">
+                    <cells>
+                        <cell id="1">7000</cell>
+                        <cell id="2">Inkoop hoog</cell>
+                        <cell id="3"/>
+                        <cell id="4"/>
+                        <cell id="5">28.835,15</cell>
+                        <cell id="6"/>
+                    </cells>
+                </row>
+                <row id="58">
+                    <cells>
+                        <cell id="1">7030</cell>
+                        <cell id="2">Werk derden</cell>
+                        <cell id="3"/>
+                        <cell id="4"/>
+                        <cell id="5">2.582,75</cell>
+                        <cell id="6"/>
+                    </cells>
+                </row>
+                <row id="59">
+                    <cells>
+                        <cell id="1"/>
+                        <cell id="2">Subtotaal 70:</cell>
+                        <cell id="3"/>
+                        <cell id="4"/>
+                        <cell id="5">31.417,90</cell>
+                        <cell id="6"/>
+                    </cells>
+                </row>
+                <row id="60">
+                    <cells>
+                        <cell id="1">8000</cell>
+                        <cell id="2">Omzet Uren</cell>
+                        <cell id="3"/>
+                        <cell id="4"/>
+                        <cell id="5"/>
+                        <cell id="6">42.686,73</cell>
+                    </cells>
+                </row>
+                <row id="61">
+                    <cells>
+                        <cell id="1">8001</cell>
+                        <cell id="2">Omzet materialen</cell>
+                        <cell id="3"/>
+                        <cell id="4"/>
+                        <cell id="5"/>
+                        <cell id="6">26.062,28</cell>
+                    </cells>
+                </row>
+                <row id="62">
+                    <cells>
+                        <cell id="1">8002</cell>
+                        <cell id="2">Omzet verlegd</cell>
+                        <cell id="3"/>
+                        <cell id="4"/>
+                        <cell id="5"/>
+                        <cell id="6">6.753,50</cell>
+                    </cells>
+                </row>
+                <row id="63">
+                    <cells>
+                        <cell id="1"/>
+                        <cell id="2">Subtotaal 80:</cell>
+                        <cell id="3"/>
+                        <cell id="4"/>
+                        <cell id="5"/>
+                        <cell id="6">75.502,51</cell>
+                    </cells>
+                </row>
+                <row id="64">
+                    <cells>
+                        <cell id="1">9200</cell>
+                        <cell id="2">Interestlasten bank/giro</cell>
+                        <cell id="3"/>
+                        <cell id="4"/>
+                        <cell id="5">174,72</cell>
+                        <cell id="6"/>
+                    </cells>
+                </row>
+                <row id="65">
+                    <cells>
+                        <cell id="1">9220</cell>
+                        <cell id="2">Interestlasten lening o/g</cell>
+                        <cell id="3"/>
+                        <cell id="4"/>
+                        <cell id="5">59,69</cell>
+                        <cell id="6"/>
+                    </cells>
+                </row>
+                <row id="66">
+                    <cells>
+                        <cell id="1"/>
+                        <cell id="2">Subtotaal 92:</cell>
+                        <cell id="3"/>
+                        <cell id="4"/>
+                        <cell id="5">234,41</cell>
+                        <cell id="6"/>
+                    </cells>
+                </row>
+                <row id="67">
+                    <cells>
+                        <cell id="1"/>
+                        <cell id="2"/>
+                        <cell id="3">118.535,32</cell>
+                        <cell id="4">88.616,81</cell>
+                        <cell id="5">45.584,00</cell>
+                        <cell id="6">75.502,51</cell>
+                    </cells>
+                </row>
+                <row id="68">
+                    <cells>
+                        <cell id="1"/>
+                        <cell id="2">Saldo winst:</cell>
+                        <cell id="3"/>
+                        <cell id="4">29.918,51</cell>
+                        <cell id="5">29.918,51</cell>
+                        <cell id="6"/>
+                    </cells>
+                </row>
+                <row id="69">
+                    <cells>
+                        <cell id="1"/>
+                        <cell id="2"/>
+                        <cell id="3">118.535,32</cell>
+                        <cell id="4">118.535,32</cell>
+                        <cell id="5">75.502,51</cell>
+                        <cell id="6">75.502,51</cell>
+                    </cells>
+                </row>
+            </rows>
+        </table>
+    </tables>
+    <footer/>
+</pdf>
