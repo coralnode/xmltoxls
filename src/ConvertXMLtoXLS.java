@@ -24,7 +24,7 @@ public class ConvertXMLtoXLS {
 
         try {
 
-            String xlsFileName = "xls/output.xml" ;
+            String xlsFileName = "xls/output.xls" ;
             FileOutputStream fileOut = new FileOutputStream(xlsFileName);
 
             HSSFWorkbook workbook = new HSSFWorkbook();
